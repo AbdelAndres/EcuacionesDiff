@@ -1,0 +1,13 @@
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.exe
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.deps.json
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.runtimeconfig.json
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.runtimeconfig.dev.json
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.dll
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\bin\Debug\netcoreapp3.1\Ecuaciones diferenciales.pdb
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.csprojAssemblyReference.cache
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.AssemblyInfoInputs.cache
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.AssemblyInfo.cs
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.csproj.CoreCompileInputs.cache
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.dll
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.pdb
+G:\andres\Universidad\Programas Visual Studio\Ecuaciones diferenciales\Metodo de Euler\Ecuaciones diferenciales\obj\Debug\netcoreapp3.1\Ecuaciones diferenciales.genruntimeconfig.cache
